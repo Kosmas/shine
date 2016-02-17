@@ -1,3 +1,6 @@
+Application and Dockerfile for the PragProg book 
+'Rails, Angular, Postgres and Bootstrap'
+
 Dockerfile for creating image to be used with PragProg's book
 'Rails, Angular, Postgres and Bootstrap'
 
