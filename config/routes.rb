@@ -6,6 +6,8 @@ Rails.application.routes.draw do
 
   resources :customers, only: [ :index ]
 
+  get "angular_test", to: "angular_test#index"
+
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 
