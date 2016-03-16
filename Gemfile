@@ -48,3 +48,8 @@ gem 'bower-rails', '~> 0.10.0'
 
 # Use faker for generating customers
 gem 'faker', '~> 1.6.3'
+
+# Add rspec for testing
+group :development, :test do
+  gem 'rspec-rails', '~> 3.4.2'
+end
