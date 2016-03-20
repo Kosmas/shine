@@ -49,8 +49,11 @@ gem 'bower-rails', '~> 0.10.0'
 # Use faker for generating customers
 gem 'faker', '~> 1.6.3'
 
-# Add rspec, poltergeist for testing
+# Add rspec for testing
+# Add poltegeist for acceptance testing
+# Add database_cleaner for unit/acceptance
 group :development, :test do
   gem 'rspec-rails', '~> 3.4.2'
   gem 'poltergeist', '~> 1.9.0'
+  gem 'database_cleaner', '~> 1.5.1'
 end
