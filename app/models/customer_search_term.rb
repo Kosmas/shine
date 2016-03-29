@@ -31,7 +31,7 @@ class CustomerSearchTerm
     @where_clause << " OR #{case_insensitive_search(:last_name)}"
     @where_args[:last_name] = starts_with(extract_name(search_term))
 
-    @where_clause << "OR #{case_insensitive_search(:email)}"
+    @where_clause << " OR #{case_insensitive_search(:email)}"
     @where_args[:email] = search_term
 
     @order = "lower(email) = " +
