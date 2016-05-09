@@ -41,7 +41,7 @@ group :development do
 end
 
 # Use devise
-gem 'devise', '~> 4.0.1'
+gem 'devise', '~> 4.1.0'
 
 # Use bower
 gem 'bower-rails', '~> 0.10.0'
