@@ -44,7 +44,7 @@ end
 gem 'devise', '~> 4.2.0'
 
 # Use bower
-gem 'bower-rails', '~> 0.10.0'
+gem 'bower-rails', '~> 0.11.0'
 
 # Use faker for generating customers
 gem 'faker', '~> 1.6.6'
