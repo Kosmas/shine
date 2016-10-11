@@ -54,7 +54,7 @@ gem 'faker', '~> 1.6.6'
 # Add database_cleaner for unit/acceptance
 group :development, :test do
   gem 'rspec-rails', '~> 3.5.2'
-  gem 'poltergeist', '~> 1.10.0'
+  gem 'poltergeist', '~> 1.11.0'
   gem 'database_cleaner', '~> 1.5.3'
   gem 'teaspoon-jasmine', '~> 2.3.4'
 end
