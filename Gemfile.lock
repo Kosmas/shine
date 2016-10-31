@@ -93,7 +93,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
-    minitest (5.9.0)
+    minitest (5.9.1)
     multi_json (1.12.1)
     nio4r (1.2.1)
     nokogiri (1.6.8.1)
@@ -130,7 +130,7 @@ GEM
       method_source
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
-    rake (11.2.2)
+    rake (11.3.0)
     rdoc (4.2.2)
       json (~> 1.4)
     responders (2.3.0)
@@ -182,7 +182,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     warden (1.2.6)
       rack (>= 1.0)
-    web-console (3.3.1)
+    web-console (3.4.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       debug_inspector
@@ -213,7 +213,7 @@ DEPENDENCIES
   sdoc (~> 0.4.2)
   teaspoon-jasmine (~> 2.3.4)
   uglifier (~> 3.0.3)
-  web-console (~> 3.3.0)
+  web-console (~> 3.4.0)
 
 BUNDLED WITH
    1.12.5
