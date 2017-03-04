@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.2.1'
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '~> 4.2.2'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-gem 'jbuilder', '~> 2.6.1'
+gem 'jbuilder', '~> 2.6.3'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.2', group: :doc
 
