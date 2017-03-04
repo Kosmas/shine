@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.0.1'
+gem 'rails', '5.0.2'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.19'
 # Use SCSS for stylesheets
@@ -47,14 +47,14 @@ gem 'devise', '~> 4.2.0'
 gem 'bower-rails', '~> 0.11.0'
 
 # Use faker for generating customers
-gem 'faker', '~> 1.7.2'
+gem 'faker', '~> 1.7.3'
 
 # Add rspec for testing
 # Add poltegeist for acceptance testing
 # Add database_cleaner for unit/acceptance
 group :development, :test do
   gem 'rspec-rails', '~> 3.5.2'
-  gem 'poltergeist', '~> 1.12.0'
+  gem 'poltergeist', '~> 1.13.0'
   gem 'database_cleaner', '~> 1.5.3'
   gem 'teaspoon-jasmine', '~> 2.3.4'
 end
