@@ -180,7 +180,7 @@ GEM
     tilt (2.0.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.1.6)
+    uglifier (3.1.7)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
@@ -214,7 +214,7 @@ DEPENDENCIES
   sass-rails (~> 5.0.6)
   sdoc (~> 0.4.2)
   teaspoon-jasmine (~> 2.3.4)
-  uglifier (~> 3.1.6)
+  uglifier (~> 3.1.7)
   web-console (~> 3.4.0)
 
 BUNDLED WITH
