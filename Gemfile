@@ -41,8 +41,7 @@ group :development do
 end
 
 # Use devise
-#gem 'devise', '~> 4.2.1'
-gem 'devise', github: 'plataformatec/devise'
+gem 'devise', '~> 4.3.0'
 
 # Use bower
 gem 'bower-rails', '~> 0.11.0'
