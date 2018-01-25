@@ -47,7 +47,7 @@ gem 'devise', '~> 4.4.1'
 gem 'bower-rails', '~> 0.11.0'
 
 # Use faker for generating customers
-gem 'faker', '~> 1.8.5'
+gem 'faker', '~> 1.8.7'
 
 # Add rspec for testing
 # Add poltegeist for acceptance testing
