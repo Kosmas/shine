@@ -14,3 +14,7 @@
 
 # Ignore database
 config/database.yml
+
+# Ignore rvm files
+.ruby-version
+.ruby-gemset
