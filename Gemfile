@@ -32,7 +32,7 @@ gem 'sdoc', '~> 1.0.0', group: :doc
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', '~> 10.0.1'
+  gem 'byebug', '~> 10.0.2'
 end
 
 group :development do
