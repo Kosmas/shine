@@ -55,6 +55,6 @@ gem 'faker', '~> 1.8.7'
 group :development, :test do
   gem 'rspec-rails', '~> 3.7.2'
   gem 'poltergeist', '~> 1.17.0'
-  gem 'database_cleaner', '~> 1.6.2'
+  gem 'database_cleaner', '~> 1.7.0'
   gem 'teaspoon-jasmine', '~> 2.3.4'
 end
