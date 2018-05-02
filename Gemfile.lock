@@ -199,7 +199,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
-    web-console (3.6.1)
+    web-console (3.6.2)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
@@ -230,7 +230,7 @@ DEPENDENCIES
   sdoc (~> 1.0.0)
   teaspoon-jasmine (~> 2.3.4)
   uglifier (~> 4.1.10)
-  web-console (~> 3.6.1)
+  web-console (~> 3.6.2)
 
 BUNDLED WITH
    1.16.0
